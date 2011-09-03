@@ -137,7 +137,7 @@ following cases UglifyJS *doesn't touch* calls or instantiations of Array:
   // etc.
 #+END_SRC
 
-*** =obj.toString()= ==> =obj+“”=
+*** =obj.toString() ==> obj+“”=
 
 ** Install (NPM)
 
